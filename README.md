@@ -25,8 +25,8 @@ Proyecto de QA Manual Testing sobre la aplicación bancaria demo **Parabank** (p
 - Incluye bugs críticos de seguridad (autenticación bypass) y datos (SSN con letras)
 
 ## Documentación
-- 📋 [Casos de prueba en Notion](https://notion.so](https://www.notion.so/4d62edb43ab44e6580a2b9b94d496c45?v=3701716c9b858194a864000c5884e448&source=copy_link))
-- 🐛 [Bug Reports en Notion](https://notion.so](https://www.notion.so/d2bb9f6782344deea39ef9803d6b9bdb?v=3701716c9b858194a864000c5884e448&source=copy_link))
+- 📋 [Casos de prueba en Notion](https://www.notion.so/4d62edb43ab44e6580a2b9b94d496c45?v=3701716c9b858194a864000c5884e448&source=copy_link)
+- 🐛 [Bug Reports en Notion](https://www.notion.so/d2bb9f6782344deea39ef9803d6b9bdb?v=3701716c9b858194a864000c5884e448&source=copy_link)
 - 📊 [Reporte TestRail](./testrail-report-parabank-6-1-2026.pdf)
 
 ## Autor
